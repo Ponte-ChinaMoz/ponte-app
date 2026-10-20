@@ -1,0 +1,24 @@
+{
+  "name": "Ponte — Moçambique–China",
+  "short_name": "Ponte",
+  "description": "Fornecedores verificados, feiras, rotas e apoio local em Guangzhou.",
+  "id": "/",
+  "start_url": "/?source=app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F5C48",
+  "theme_color": "#0F5C48",
+  "lang": "pt",
+  "categories": ["business", "travel", "shopping"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Falar com a equipa", "url": "/#/chat", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Mapa e rotas", "url": "/#/map", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Os meus pedidos", "url": "/#/orders", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

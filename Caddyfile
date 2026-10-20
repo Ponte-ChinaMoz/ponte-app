@@ -1,0 +1,5 @@
+# O Caddy obtém e renova o certificado HTTPS automaticamente (necessário para instalar a app no telefone).
+{$DOMAIN} {
+	encode gzip
+	reverse_proxy ponte:3000
+}

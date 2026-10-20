@@ -1,0 +1,76 @@
+Rastreio	Tracking	Seguimiento	Tracciamento	Suivi	物流跟踪
+Chegada prevista: {d}	Expected arrival: {d}	Llegada prevista: {d}	Arrivo previsto: {d}	Arrivée prévue : {d}	预计到达：{d}
+Rastrear	Track	Rastrear	Traccia	Suivre	跟踪
+Entregue	Delivered	Entregado	Consegnato	Livré	已送达
+Chegou a {d}	Arrived on {d}	Llegó el {d}	Arrivato il {d}	Arrivé le {d}	{d} 已到达
+Chegou ao destino	Arrived at destination	Llegó a destino	Arrivato a destinazione	Arrivé à destination	已到达目的地
+Data de chegada a confirmar	Arrival date to be confirmed	Fecha de llegada por confirmar	Data di arrivo da confermare	Date d'arrivée à confirmer	到达日期待确认
+Previsto para {d} · a confirmar com a transportadora	Expected {d} · checking with the carrier	Previsto para el {d} · confirmando con la naviera	Previsto per il {d} · in verifica con il vettore	Prévu le {d} · vérification auprès du transporteur	原定 {d} · 正与承运商确认
+Chegada prevista hoje	Expected to arrive today	Llegada prevista hoy	Arrivo previsto oggi	Arrivée prévue aujourd'hui	预计今天到达
+Chega amanhã · {d}	Arrives tomorrow · {d}	Llega mañana · {d}	Arriva domani · {d}	Arrive demain · {d}	明天到达 · {d}
+Chega em {n} dias · {d}	Arrives in {n} days · {d}	Llega en {n} días · {d}	Arriva tra {n} giorni · {d}	Arrive dans {n} jours · {d}	{n} 天后到达 · {d}
+Atrasado	Delayed	Retrasado	In ritardo	En retard	延误
+Última actualização	Last update	Última actualización	Ultimo aggiornamento	Dernière mise à jour	最新动态
+Link ou código de rastreio	Tracking link or code	Enlace o código de seguimiento	Link o codice di tracciamento	Lien ou code de suivi	跟踪链接或编号
+Código não encontrado.	Code not found.	Código no encontrado.	Codice non trovato.	Code introuvable.	未找到该编号。
+Rastrear encomendas	Track shipments	Rastrear envíos	Traccia spedizioni	Suivre mes envois	货物跟踪
+Ver	View	Ver	Vedi	Voir	查看
+Entre na sua conta para ver os seus envios. Recebeu um link de rastreio? Cole-o acima.	Sign in to see your shipments. Got a tracking link? Paste it above.	Inicie sesión para ver sus envíos. ¿Recibió un enlace de seguimiento? Péguelo arriba.	Accedi per vedere le tue spedizioni. Hai ricevuto un link? Incollalo sopra.	Connectez-vous pour voir vos envois. Vous avez reçu un lien de suivi ? Collez-le ci-dessus.	登录后查看您的货物。收到跟踪链接？粘贴在上方。
+Ainda não tem envios a caminho. Quando a sua encomenda sair da fábrica, aparece aqui com o mapa e a data de chegada.	No shipments on the way yet. When your order leaves the factory, it shows up here with the map and arrival date.	Aún no tiene envíos en camino. Cuando su pedido salga de la fábrica, aparecerá aquí con el mapa y la fecha de llegada.	Nessuna spedizione in viaggio. Quando l'ordine lascia la fabbrica, appare qui con la mappa e la data di arrivo.	Aucun envoi en route. Quand votre commande quittera l'usine, elle apparaîtra ici avec la carte et la date d'arrivée.	暂无在途货物。订单出厂后会在这里显示地图和到达日期。
+Entregues	Delivered	Entregados	Consegnate	Livrés	已送达
+Ver um exemplo	See an example	Ver un ejemplo	Vedi un esempio	Voir un exemple	查看示例
+Contentor de demonstração a caminho de Maputo	Demo container on its way to Maputo	Contenedor de demostración rumbo a Maputo	Container dimostrativo diretto a Maputo	Conteneur de démonstration en route vers Maputo	开往马普托的演示集装箱
+Chegada prevista	Expected arrival	Llegada prevista	Arrivo previsto	Arrivée prévue	预计到达
+Mapa da rota	Route map	Mapa de la ruta	Mappa del percorso	Carte de l'itinéraire	航线地图
+Acompanhe o envio	Follow the shipment	Siga el envío	Segui la spedizione	Suivez l'envoi	跟踪货物
+Atraso de {n} dias.	{n} days late.	Retraso de {n} días.	Ritardo di {n} giorni.	Retard de {n} jours.	延误 {n} 天。
+Rastreio partilhado pela Ponte. Sem preços nem documentos.	Tracking shared by Ponte. No prices or documents.	Seguimiento compartido por Ponte. Sin precios ni documentos.	Tracciamento condiviso da Ponte. Senza prezzi né documenti.	Suivi partagé par Ponte. Sans prix ni documents.	Ponte 分享的跟踪信息，不含价格和单据。
+Exemplo de demonstração: dados fictícios.	Demo example: fictitious data.	Ejemplo de demostración: datos ficticios.	Esempio dimostrativo: dati fittizi.	Exemple de démonstration : données fictives.	演示示例：虚构数据。
+Atraso de {n} dias	{n} days late	Retraso de {n} días	Ritardo di {n} giorni	Retard de {n} jours	延误 {n} 天
+Faltam cerca de {n} km de {t} km	About {n} km left of {t} km	Faltan unos {n} km de {t} km	Mancano circa {n} km su {t} km	Il reste environ {n} km sur {t} km	全程 {t} 公里，剩余约 {n} 公里
+Posição estimada pela data de partida e de chegada. A posição exacta está no site da transportadora.	Position estimated from departure and arrival dates. The exact position is on the carrier's website.	Posición estimada según las fechas de salida y llegada. La posición exacta está en la web de la naviera.	Posizione stimata dalle date di partenza e arrivo. La posizione esatta è sul sito del vettore.	Position estimée d'après les dates de départ et d'arrivée. La position exacte est sur le site du transporteur.	位置根据出发和到达日期估算，准确位置请查看承运商网站。
+Transporte	Transport	Transporte	Trasporto	Transport	运输
+prevista	expected	prevista	prevista	prévu	预计
+inicial	originally	inicial	iniziale	initiale	原定
+Ver no site da transportadora	View on the carrier's website	Ver en la web de la naviera	Vedi sul sito del vettore	Voir sur le site du transporteur	在承运商网站查看
+Histórico do envio	Shipment history	Historial del envío	Storico della spedizione	Historique de l'envoi	运输记录
+As etapas aparecem aqui à medida que a equipa e a transportadora as registam.	Milestones appear here as the team and the carrier record them.	Las etapas aparecen aquí a medida que el equipo y la naviera las registran.	Le tappe compaiono qui man mano che il team e il vettore le registrano.	Les étapes apparaissent ici au fur et à mesure que l'équipe et le transporteur les enregistrent.	团队和承运商登记后，节点会显示在这里。
+Partilhar	Share	Compartir	Condividi	Partager	分享
+Pôr a chegada no calendário	Add arrival to calendar	Añadir la llegada al calendario	Aggiungi l'arrivo al calendario	Ajouter l'arrivée au calendrier	将到达日期加入日历
+Ver o pedido {c}	View order {c}	Ver el pedido {c}	Vedi l'ordine {c}	Voir la commande {c}	查看订单 {c}
+Pergunta sobre o envio	Question about shipment	Pregunta sobre el envío	Domanda sulla spedizione	Question sur l'envoi	关于货物的问题
+Perguntar à equipa sobre este envio	Ask the team about this shipment	Preguntar al equipo sobre este envío	Chiedi al team di questa spedizione	Demander à l'équipe à propos de cet envoi	向团队咨询此货物
+Conhecer a Ponte	Discover Ponte	Conocer Ponte	Scopri Ponte	Découvrir Ponte	了解 Ponte
+Posição estimada	Estimated position	Posición estimada	Posizione stimata	Position estimée	估算位置
+Última posição	Last position	Última posición	Ultima posizione	Dernière position	最新位置
+Mapa indisponível sem internet.	Map unavailable offline.	Mapa no disponible sin internet.	Mappa non disponibile offline.	Carte indisponible hors ligne.	无网络时无法显示地图。
+A sua encomenda	Your shipment	Su envío	La tua spedizione	Votre envoi	您的货物
+Ver todas	See all	Ver todas	Vedi tutte	Tout voir	查看全部
+Mapa, data de chegada e atrasos	Map, arrival date and delays	Mapa, fecha de llegada y retrasos	Mappa, data di arrivo e ritardi	Carte, date d'arrivée et retards	地图、到达日期和延误
+Marítimo	Sea	Marítimo	Marittimo	Maritime	海运
+Rodoviário	Road	Por carretera	Stradale	Routier	陆运
+Transportadora	Carrier	Naviera / transportista	Vettore	Transporteur	承运商
+Navio / voo	Vessel / flight	Buque / vuelo	Nave / volo	Navire / vol	船名 / 航班
+Contentor	Container	Contenedor	Container	Conteneur	集装箱
+Conhecimento (BL)	Bill of lading (BL)	Conocimiento (BL)	Polizza di carico (BL)	Connaissement (BL)	提单 (BL)
+Guia	Waybill	Guía	Lettera di vettura	Lettre de transport	运单
+Transbordo	Transshipment	Transbordo	Trasbordo	Transbordement	中转
+Partida	Departure	Salida	Partenza	Départ	出发
+Em preparação	Being prepared	En preparación	In preparazione	En préparation	准备中
+No porto de origem	At origin port	En el puerto de origen	Al porto di origine	Au port de départ	在起运港
+Em viagem	In transit	En tránsito	In viaggio	En transit	运输中
+Chegada e alfândega	Arrival and customs	Llegada y aduana	Arrivo e dogana	Arrivée et douane	到港与清关
+Em entrega	Out for delivery	En reparto	In consegna	En livraison	派送中
+Reserva de espaço confirmada	Space booking confirmed	Reserva de espacio confirmada	Prenotazione spazio confermata	Réservation d'espace confirmée	舱位已确认
+Recolhido no fornecedor	Picked up from supplier	Recogido en el proveedor	Ritirato dal fornitore	Enlevé chez le fournisseur	已从供应商提货
+Recebido no armazém em Guangzhou	Received at Guangzhou warehouse	Recibido en el almacén de Guangzhou	Ricevuto nel magazzino di Guangzhou	Reçu à l'entrepôt de Guangzhou	已入广州仓库
+Inspeccionado e fotografado	Inspected and photographed	Inspeccionado y fotografiado	Ispezionato e fotografato	Inspecté et photographié	已验货并拍照
+Carregado no contentor	Loaded into container	Cargado en el contenedor	Caricato nel container	Chargé dans le conteneur	已装柜
+Entregue no porto de origem	Delivered to origin port	Entregado en el puerto de origen	Consegnato al porto di origine	Livré au port de départ	已进港
+Partiu	Departed	Salió	Partito	Parti	已开航
+Em transbordo	In transshipment	En transbordo	In trasbordo	En transbordement	中转中
+Em desalfandegamento	In customs clearance	En despacho de aduana	In sdoganamento	En dédouanement	清关中
+Libertado pela alfândega	Released by customs	Liberado por aduana	Svincolato dalla dogana	Libéré par la douane	已清关放行
+Saiu para entrega	Out for delivery	Salió para entrega	Uscito per la consegna	Sorti pour livraison	已出库派送
+Atraso	Delay	Retraso	Ritardo	Retard	延误
+Actualização	Update	Actualización	Aggiornamento	Mise à jour	更新

@@ -1,0 +1,17 @@
+{
+  "name": "ponte-app",
+  "version": "1.0.0",
+  "description": "Ponte — app Moçambique–China: procurement, feiras, guia de estadia, despacho e chat com a equipa Ponte.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "dev": "node --disable-warning=ExperimentalWarning --watch server/index.js",
+    "seed": "node --disable-warning=ExperimentalWarning server/seed.js --force",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.js"
+  },
+  "license": "UNLICENSED"
+}

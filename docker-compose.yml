@@ -1,0 +1,26 @@
+# Para um servidor próprio (VPS). Ver docs/ALOJAMENTO.md, opção B.
+services:
+  ponte:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      - DATA_DIR=/data
+      - PORT=3000
+    volumes:
+      - ./data:/data
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - DOMAIN=${DOMAIN}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+    depends_on:
+      - ponte
+volumes:
+  caddy_data:
